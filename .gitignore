@@ -1,0 +1,3 @@
+# Ignore compiled problem executables in src while keeping source files tracked.
+src/[0-9]*
+!src/*.cpp
